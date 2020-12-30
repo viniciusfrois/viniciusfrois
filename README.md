@@ -9,4 +9,6 @@
 
 
 <h2 align="center">🌐Me siga nas Redes Sociais ! </h2><br>
-<a href="https://www.linkedin.com/in/vinicius-frois-362561201/">Linked In</a>
+<p align="center"><a href="https://www.linkedin.com/in/vinicius-frois-362561201/">Linked In</a></p>
+<p align="center"><a href="https://www.facebook.com/profile.php?id=100004085914778">Facebook</a></p>
+<p align="center"><a href="https://www.instagram.com/viniifrois/?hl=pt-br">Instagram</a></p>
