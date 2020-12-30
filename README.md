@@ -9,4 +9,4 @@
 
 
 <h2 align="center">🌐Me siga nas Redes Sociais ! </h2><br>
-[Facebook] (https://www.facebook.com/profile.php?id=100004085914778)
+<a href="https://www.linkedin.com/in/vinicius-frois-362561201/">Linked In</a>
