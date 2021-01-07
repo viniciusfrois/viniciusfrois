@@ -5,7 +5,7 @@
 <h2 align="center"> Sobre ❓</h2>
 <p align="center">Atualmente trabalho Home Office como Analista de Suporte Técnico 2.</p>
 <p align="center">💻 O que estou aprendendo Atualmente 💻</p>
-<p align="center">Atualmente estou mais focado na linguagem Java, pretendo aprender  ainda esse ano (HTML,CSS,JAVASCRIPT)</p><br>
+<p align="center">Atualmente estou mais focado na linguagem Java, pretendo aprender  ainda esse ano (JAVASCRIPT)</p><br>
 
 
 <h2 align="center">Me siga nas Redes Sociais ! 🌐</h2><br>
