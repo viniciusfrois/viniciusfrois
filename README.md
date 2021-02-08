@@ -3,7 +3,6 @@
 <p align="center">No inicio de 2019 comecei me aprofundar na Area de Programação ! </p><br>
 
 <h2 align="center"> Sobre ❓</h2>
-<p align="center">Atualmente trabalho Home Office como Analista de Suporte Técnico 2.</p>
 <p align="center">💻 O que estou aprendendo Atualmente 💻</p>
 <p align="center">Atualmente estou mais focado na linguagem Java (UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB).<br>Pretendo aprender  ainda esse ano (JAVASCRIPT)</p><br>
 
