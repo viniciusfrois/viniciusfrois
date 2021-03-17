@@ -1,6 +1,9 @@
 <h2 align="center">Olá, eu sou Vinicius Frois ! 👨‍💻 </h2>
 <p align="center">Trabalho com sistemas desde 2016. </p>
-<p align="center">No inicio de 2019 comecei me aprofundar na Area de Programação ! </p><br>
+<p align="center">No inicio de 2019 comecei me aprofundar na Area de Programação ! </p>
+<p align="center">Nas horas vagas desenvolvo sites WORDPRESS segue links de sites que desenvolvi:</p><br>
+<p align="center"><a href="https://rangobomdelivery.com.br/">Delivery</a></p>
+<p align="center"><a href="https://uzzemarte.com.br/">E-Commerce</a></p><br>
 
 <h2 align="center"> Sobre ❓</h2>
 <p align="center">💻 O que estou aprendendo Atualmente 💻</p>
