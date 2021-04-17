@@ -7,7 +7,7 @@
 
 <h2 align="center"> Sobre ❓</h2>
 <p align="center">💻 O que estou aprendendo Atualmente 💻</p>
-<p align="center">Atualmente estou mais focado na linguagem Java (UML, JDBC, Spring Boot, JPA, Hibernate, PostgresSQL)</p>
+<p align="center">Atualmente estou mais focado na linguagem Java (UML, JDBC, Spring Boot, JPA, Hibernate, PostgresSQL, MySQL)</p>
 <p align="center">Todos projetos upados aqui foram feitos com base em linguagem Java, utilizando as IDE (Eclipse)</p>
 <p align="center">Pretendo aprender  ainda esse ano (JAVASCRIPT)</p>
 
