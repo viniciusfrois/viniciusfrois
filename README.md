@@ -14,3 +14,6 @@
 
 <h2 align="center">Me siga nas Redes Sociais ! 🌐</h2><br>
 <p align="center"><a href="https://linktr.ee/vinifrois">Linktree</a></p>
+
+<h2 align="center">Certificações ! :blue_book:</h2><br>
+<p align="center"><image src="Capturar.PNG"></p>
