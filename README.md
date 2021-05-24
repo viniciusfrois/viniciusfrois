@@ -18,7 +18,5 @@ Pretendo aprender  ainda esse ano JavaScript.<br>
 
 
 <h2 align="center">Certificações ! :blue_book:</h2><br>
-<p align="center">[Java]</p>
-<p align="center"><image src="Capturar.jpg"></p>
-  <p align="center">[PHP]</p>
-<p align="center"><image src="Capturar2.jpg"></p>
+<p align="center">[Java] e [PHP]</p>
+<p align="center"><image src="Capturar.jpg" width="49%">&nbsp&nbsp<image src="Capturar2.jpg" width="49%" height="354px"</p>
