@@ -5,7 +5,7 @@
 <p align="center">💻 Conhecimentos 💻</p>
 <p align="center"><b>Back-end:</b> PHP, Java e o Framework SpringBoot<br>
 <b>Front-end:</b> Conhecimento básico sobre HTML5 e CSS3 (VSCode).<br>
-<b>Ferramentas:</b> Git, GitHub, Svn, Bitbucket, Jira, SpringBoot, Docker, NodeJS, PostgreSQL, MySQL.<br>
+<b>Ferramentas:</b> Git, GitHub, Svn, Bitbucket, Jira, SpringBoot, Docker, NodeJS, PostgreSQL, MySQL.<br><br>
 Todos projetos upados aqui foram feitos com base em linguagem Java, utilizando as IDEs (Eclipse,STS4).<br>
 Pretendo aprender  ainda esse ano JavaScript.<br>
 <p align="center">Já desenvolvi alguns sites Wordpress também, segue abaixo:<br>
