@@ -7,10 +7,6 @@
 <b>Front-end:</b> Conhecimento básico sobre HTML5 e CSS3 (VSCode).<br>
 <b>Ferramentas:</b> Git, GitHub, Svn, Bitbucket, Jira, SpringBoot, Docker, NodeJS, PostgreSQL, MySQL.<br><br>
 Todos projetos upados aqui foram feitos com base em linguagem Java, utilizando as IDEs (Eclipse,STS4).<br>
-Pretendo aprender  ainda esse ano JavaScript.<br>
-<p align="center">Já desenvolvi alguns sites Wordpress também, segue abaixo:<br>
-<a href="https://rangobomdelivery.com.br/">Delivery</a><br>
-<a href="https://uzzemarte.com.br/">E-Commerce</a></p>
 
 <h2 align="center">Redes Sociais ! 🌐</h2>
 <p align="center"><a href="https://linktr.ee/vinifrois">Linktree</a></p>
