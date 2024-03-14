@@ -1,5 +1,5 @@
 <h2 align="center">Olá, eu sou Vinicius Frois ! 👨‍💻 </h2>
-<p align="center">Tenho 26 anos, sou de Maringá-PR.<br>Trabalho com sistemas desde 2016 como Analisata de Suporte Técnico, atualmente trabalhando como desenvolvedor web Jr.</p>
+<p align="center">Tenho 26 anos, sou de Maringá-PR.<br>Trabalho com sistemas desde 2016 como Analista de Suporte Técnico, atualmente trabalhando como desenvolvedor web Jr.</p>
 
 <h2 align="center"> Sobre ❓</h2>
 <p align="center">💻 Conhecimentos 💻</p>
